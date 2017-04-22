@@ -1,4 +1,7 @@
-# api documentation for  [help (v3.0.2)](https://github.com/evanlucas/help)  [![npm package](https://img.shields.io/npm/v/npmdoc-help.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-help) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-help.svg)](https://travis-ci.org/npmdoc/node-npmdoc-help)
+# npmdoc-help
+
+#### api documentation for  [help (v3.0.2)](https://github.com/evanlucas/help)  [![npm package](https://img.shields.io/npm/v/npmdoc-help.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-help) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-help.svg)](https://travis-ci.org/npmdoc/node-npmdoc-help)
+
 #### substack way of --help
 
 [![NPM](https://nodei.co/npm/help.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/help)
@@ -55,7 +58,8 @@
     "scripts": {
         "test": "tap test/test.js --cov"
     },
-    "version": "3.0.2"
+    "version": "3.0.2",
+    "bin": {}
 }
 ```
 
